@@ -11,6 +11,7 @@ h1 {
   font-family: Helvetica;
   color: white;
   border: 1px solid black;
+  height: 1000px;
 }
 .span1, .span2, .span3 {
   color: black;
