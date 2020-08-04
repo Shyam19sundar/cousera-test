@@ -14,26 +14,8 @@ h1 {
   color: white;
   border: 1px solid black;
 }
-.span1 {
+.span1 , .span2 , .span3 {
   background-color: green;
-  border-left:  1px solid black;
-  border-bottom:   1px solid black;
-  text-align: center;
-  margin-right: 0px;
-  margin-left: auto;
-  max-width: 80px;
-}
-.span2 {
-  background-color: blue;
-  border-left:  1px solid black;
-  border-bottom:   1px solid black;
-  text-align: center;
-  margin-right: 0px;
-  margin-left: auto;
-  max-width: 80px;
-}
-.span3 {
-  background-color: pink;
   border-left:  1px solid black;
   border-bottom:   1px solid black;
   text-align: center;
